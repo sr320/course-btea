@@ -1,4 +1,4 @@
-# course-btea
+# \course-btea
 
 ## Bioinformatics for Transcriptomic and Epigenomic Analyses
 
