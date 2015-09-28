@@ -1,4 +1,4 @@
-# course-bbes
+# course-btea
 
 ## Bioinformatics for Transcriptomic and Epigenomic Analyses
 
