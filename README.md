@@ -1,6 +1,4 @@
-# \course-btea
-
-## Bioinformatics for Transcriptomic and Epigenomic Analyses
+# Bioinformatics for Transcriptomic and Epigenomic Analyses
 
 20-24 October 2015
 
@@ -23,3 +21,27 @@ Participants will learn how to
 ---
 
 We will be using local (desktop) software including bash, blast, tophat, bedtools, IGV, tophat and jupyter (IPython) notebooks. Additionally, participants will learn how to use open, web-based platforms including iPlant Collaborative, SQLShare, and Galaxy.
+
+---
+
+#Prerequisites
+Before course begins, students should obtain accounts for the following services (if not already signed up for). Students will need access to a computer.
+
+* [GitHub](https://github.com); Clients [Mac](https://mac.github.com) - [Windows](https://windows.github.com)
+* [iPlant](http://www.iplantcollaborative.org)
+* [SQLShare](https://sqlshare.escience.washington.edu) _Google Account needed_
+* [SageMath Cloud](https://cloud.sagemath.com) _can wait for invite_
+* [Galaxy](https://usegalaxy.org)
+
+Please review content below
+
+* [Markdown](https://help.github.com/articles/markdown-basics/)
+* [IPython](http://ipython.org)
+* [IGV](http://www.broadinstitute.org/igv/) 
+
+
+
+
+
+
+
