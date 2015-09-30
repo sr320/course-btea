@@ -10,7 +10,7 @@
 4) Version control - Github
 5) Jupyter Notebooks
 6) SageMathCloud
-7) Activity ??  Describe a transcriptome  (Show how generated)
+7) **Activity** ??  Describe a transcriptome  (Show how generated)
 Assemble transcriptomes - maybe iPlant, Galaxy.
 
 
@@ -33,7 +33,7 @@ Activity
 
 AM Lecture:  Vadopalas **Ecological and hatchery perspective on reproduction**
 
-1) DESeq - - RNASeq Heat Shock!
+1) DESeq - - RNASeq Heat Shock!- gonads 
 2) Enrichment analysis
 3) Proteomics??? (might not have time)
 
