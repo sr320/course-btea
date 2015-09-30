@@ -23,36 +23,35 @@ One primary case study will be the examination of novel transcriptome datasets f
 
 ##Day 2
 - Characterize and annotate novel transcriptomes 
-AM Lecture:  Vadopalas **Bivalve Reproduction: a tale of two species**
 
-1) Blast
-2) Compare to full genome (maybe start day before) 
-3) Graphics
-Activity
+1) **AM Lecture**:  Vadopalas _Bivalve Reproduction: a tale of two species_            
+2) Blast          
+3) Compare to full genome (maybe start day before)        
+4) Predicted Proteins      
+6) **Activity**       
 
+---
 
 ##Day 3
-- Identify differentially expressed genes and alternative splice products  
+- Identify differentially expressed genes   
 
-AM Lecture:  Vadopalas **Ecological and hatchery perspective on reproduction**
-
-1) DESeq - - RNASeq Heat Shock!- gonads 
-2) Enrichment analysis
-3) Proteomics??? (might not have time)
-
-4 ) mini project - Relationship of dm-TE and DE (todoist)
+1) **AM Lecture**:  Vadopalas _Ecological and hatchery perspective on reproduction_        
+1) DESeq - - RNASeq Heat Shock!- gonads        
+2) Sex specific genes       
+2) Enrichment analysis         
+3) Proteomics??? (might not have time)         
+4 ) mini project - Relationship of dm-TE and DE (todoist)       
 
 Activity 
 
+---
 
 ##Day 4
 - Assess epigenetic variation in relation to genomic feature
-- 
-AM Lecture:  Roberts **Epigenetics: this changes everything**
 
-1) In silico anlaysis
+1) **AM Lecture**:  Roberts _Epigenetics: this changes everything_    
+1) In silico anlaysis        
 Do corals
-then new transcriptomes
-
-Bisulfite data - 
+then new transcriptomes          
+2) Bisulfite data - 
 
