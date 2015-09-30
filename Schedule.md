@@ -1,5 +1,9 @@
 #Schedule
 
+This is a multi-day course with hands-on bioinformatics analyses accompanied with discussions of fundamental physiological processes, specific case studies, and underlying laboratory techniques. The general objective of this course is to provide participants with core computing skills and experience with genomic datasets.   
+
+
+
 ##Day 1
 - Set-up computing environments for bioinformatics analysis and learn basic unix commands.    
 - Use version control for effective documentation of analyses, backup, and collaboration
