@@ -14,7 +14,7 @@ One primary case study will be the examination of novel transcriptome datasets f
 4) Version control - Github        
 5) Jupyter (formerly IPython) Notebooks        
 6) SageMathCloud            
-7) **Activity** -  _Describe transcriptome_  (Show how generated)         
+7) **Activity** - Notebooks set-up _Describe transcriptome_  (Show how generated)         
 	- Assemble transcriptomes - maybe iPlant, Galaxy.          
 	- _Product_ - publish notebooks and post on wiki by end of day!!        
 	- ITP-  Start blast
