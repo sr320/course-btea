@@ -9,15 +9,15 @@ One primary case study will be the examination of novel transcriptome datasets f
 - Use version control for effective documentation of analyses, backup, and collaboration
 
 1) **AM Lecture**:  Roberts _Open Science and Helping Future You_     
-2) Getting comfortable with text and command-line (shell.md)  ~maybe SMC  or git bash~    
-3) Markdown - Notepad++      
-4) Version control - Github        
-5) Jupyter (formerly IPython) Notebooks        
-6) SageMathCloud            
+2) Getting comfortable with text and command-line. Open [shell.md](https://github.com/sr320/course-btea/blob/master/day-1/00-shell.md). For this everyone will jump right in with [a bash shell](https://github.com/sr320/course-btea/wiki/Before-you-arrive#the-bash-shell).     
+3) [Markdown](https://github.com/sr320/course-btea/wiki/Before-you-arrive#markdown-editors) Lets get out of the shell for a bit to learn markdown and why it is valuable (spoiler: version control).    
+4) [Version control](http://swcarpentry.github.io/git-novice/10-open.html) - Github        
+5) [Jupyter](https://jupyter.org/)        
+6) [SageMathCloud](https://cloud.sagemath.com/)             
 7) **Activity** - Notebooks set-up _Describe transcriptome_  (Show how generated)         
 	- Assemble transcriptomes - maybe iPlant, Galaxy.          
-	- _Product_ - publish notebooks and post on wiki by end of day!!        
-	- ITP-  Start blast
+	- _Product_ - publish notebook post links on wiki by end of day!!        
+	- ITP -  Start blast
 
 ---
 
