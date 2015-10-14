@@ -25,21 +25,7 @@ We will be using local (desktop) software including bash, blast, tophat, bedtool
 ---
 
 #Prerequisites
-Before course begins, students should obtain accounts for the following services (if not already signed up for). Students will need access to a computer.
-
-* [GitHub](https://github.com); Clients [Mac](https://mac.github.com) - [Windows](https://windows.github.com)
-* [iPlant](http://www.iplantcollaborative.org)
-* [SQLShare](https://sqlshare.escience.washington.edu) _Google Account needed_
-* [SageMath Cloud](https://cloud.sagemath.com) _can wait for invite_
-* [Galaxy](https://usegalaxy.org)
-
-Please review content below
-
-* [Markdown](https://help.github.com/articles/markdown-basics/)
-* [IPython](http://ipython.org)
-* [IGV](http://www.broadinstitute.org/igv/) 
-
-
+There are several things students can do to be prepared for the course. Please see the [wiki page: Before you arrive]() for more details
 
 
 
