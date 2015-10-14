@@ -25,7 +25,7 @@ We will be using local (desktop) software including bash, blast, tophat, bedtool
 ---
 
 #Prerequisites
-There are several things students can do to be prepared for the course. Please see the [wiki page: Before you arrive]() for more details
+There are several things students can do to be prepared for the course. Please see the [wiki page: Before you arrive](https://github.com/sr320/course-btea/wiki/Before-you-arrive) for more details
 
 
 
