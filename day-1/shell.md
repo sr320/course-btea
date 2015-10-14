@@ -537,6 +537,10 @@ We now know how to explore files and directories, but how do we create them in t
 
     /users/nelle
 
+**Actually**   will look something more like `/Users/sr320/Desktop/shell-novice/data/users/nelle`
+
+    
+
     $ ls -F
 
     creatures/  molecules/           pizza.cfg
