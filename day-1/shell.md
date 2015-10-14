@@ -64,7 +64,7 @@ it shows us who the shell thinks we are:
 $ whoami
 ```
 ``` 
-nelle
+yourname
 ```
 
 More specifically, when we type `whoami` the shell:
@@ -73,6 +73,8 @@ More specifically, when we type `whoami` the shell:
 2.  runs that program,
 3.  displays that program's output, then
 4.  displays a new prompt to tell us that it's ready for more commands.
+
+
 
 Next,
 let's find out where we are by running a command called `pwd`
@@ -132,12 +134,6 @@ Similarly,
 we know that `/users` is stored inside the root directory `/`
 because its name begins with `/`.
 
-Underneath `/users`,
-we find one directory for each user with an account on this machine.
-The Mummy's files are stored in `/users/gorgon`,
-Wolfman's in `/users/dru`,
-and ours in `/users/nelle`,
-which is why `nelle` is the last part of the directory's name.
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Files_and_Directories_1A575CC7.png" alt="Home Directories" />
 
@@ -145,6 +141,10 @@ which is why `nelle` is the last part of the directory's name.
 > When it appears at the front of a file or directory name,
 > it refers to the root directory. When it appears *inside* a name,
 > it's just a separator.
+
+--- 
+
+So that we have the same experience lets navigate to the 'fake' directory structure you just downloaded.  For example on a Mac you can type `cd Desktop/shell-novice/data/users/nelle` if you are in your home direcotory.
 
 ##ls
 
@@ -267,6 +267,11 @@ $ ls -F /data
 access.log    backup/    hardware.cfg
 network.cfg
 ```
+**Note** you will get an "No file" warning here. This is because we are not really on Nelle's machine. But this should make sense if you consider the directory organization.
+
+![pic](https://camo.githubusercontent.com/ea9ad5b1c9a04de70ad43940ae5f8affbcca401b/687474703a2f2f6561676c652e666973682e77617368696e67746f6e2e6564752f636e6964617269616e2f736b697463682f46696c65735f616e645f4469726563746f726965735f31413537354343372e706e67)
+
+
 
 The leading `/` tells the computer to follow the path from the root of the filesystem,
 so it always refers to exactly one directory,
