@@ -2,13 +2,13 @@
 
 This is a multi-day course with hands-on bioinformatics analyses accompanied with discussions of fundamental physiological processes, specific case studies, and underlying laboratory techniques. The general objective of this course is to provide participants with core computing skills and experience with genomic datasets.   
 
-One primary case study will be the examination of novel transcriptome datasets from reproductive tissue from two bivalves. The underlying goal of the week long course is to complete a peer-review ready manuscript. 
+One primary case study will be the examination of novel transcriptome datasets from reproductive tissue from two bivalves. The underlying goal of the week long course is to produce a cohesive analysis product. 
 
 ##Day 1
 - Set-up computing environments for bioinformatics analysis and learn basic unix commands.    
 - Use version control for effective documentation of analyses, backup, and collaboration
 
-1) **AM Lecture**:  Roberts _Open Science and Helping Future You_     
+1) **AM Lecture**:  Roberts _Introduction_     
 2) Getting comfortable with text and command-line (shell.md)  ~maybe SMC  or git bash~    
 3) Markdown - Notepad++      
 4) Version control - Github        
