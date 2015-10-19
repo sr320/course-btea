@@ -1,10 +1,10 @@
 # Bioinformatics for Transcriptomic and Epigenomic Analyses
+[CICESE Site](http://simm.cicese.mx/bioinformatics/programa.php)
 
-20-24 October 2015
+19-24 October 2015
 
 ---
-Morning 9am - 1pm    
-Afternoon 3pm - 6pm
+
 
 ---
 Marine environments are continually changing in response to both natural processes and human activities, both having distinct impacts on marine organisms. Furthermore, shellfish aquaculture is increasingly faced with challenges that require a better understanding of basic biology. This course will focus on the computational tools to explore the surprising similarities and unique differences in the physiology of aquatic organisms. A core component of this course will be hands on tutorials examining high-throughput sequencing data. Specifically, transcriptome (RNA-seq) and epigenetic (BS-seq; MBD arrays) data will be analyzed. Bioinformatic instruction will include modules on gene annotation, differential gene expression, and DNA methylation analyses. In addition, we will introduce genome browsers as a tool to examine structural relationships among genomic features. There will be an emphasis on open science practices including the use of electronic lab notebooks.       
