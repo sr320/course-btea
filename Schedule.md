@@ -9,13 +9,24 @@ One primary case study will be the examination of novel transcriptome datasets f
 - Use version control for effective documentation of analyses, backup, and collaboration
 
 1) **AM Lecture**:  Roberts _Introduction_     
-2) Getting comfortable with text and command-line (shell.md)  ~maybe SMC  or git bash~    
+
+2) Getting comfortable with text and command-line (shell.md)  ~maybe SMC  or git bash~  
+- Run through modified Software Carpentry lesson  
+
 3) Markdown - Notepad++      
-4) Version control - Github        
-5) Jupyter (formerly IPython) Notebooks        
-6) SageMathCloud            
+- Create page about your research interest: links, fancy formatting
+
+4) Version control - Github
+- Do a pull request; Edit course wiki        
+
+5) Jupyter (formerly IPython) Notebooks 
+- Basic Shell commands; Markdown
+       
+6) SageMathCloud      
+      
 7) **Activity** - Notebooks set-up _Describe transcriptome_  (Show how generated)         
-	- Assemble transcriptomes - maybe iPlant, Galaxy.          
+	- Assemble transcriptomes  
+	- maybe iPlant, Galaxy.          
 	- _Product_ - publish notebooks and post on wiki by end of day!!        
 	- ITP-  Start blast
 
