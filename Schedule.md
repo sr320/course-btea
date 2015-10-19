@@ -8,27 +8,16 @@ One primary case study will be the examination of novel transcriptome datasets f
 - Set-up computing environments for bioinformatics analysis and learn basic unix commands.    
 - Use version control for effective documentation of analyses, backup, and collaboration
 
-1) **AM Lecture**:  Roberts _Introduction_     
-
-2) Getting comfortable with text and command-line (shell.md)  ~maybe SMC  or git bash~  
-- Run through modified Software Carpentry lesson  
-
-3) Markdown - Notepad++      
-- Create page about your research interest: links, fancy formatting
-
-4) Version control - Github
-- Do a pull request; Edit course wiki        
-
-5) Jupyter (formerly IPython) Notebooks 
-- Basic Shell commands; Markdown
-       
-6) SageMathCloud      
-      
+1) **AM Lecture**:  Roberts _Open Science and Helping Future You_     
+2) Getting comfortable with text and command-line. Open [shell.md](https://github.com/sr320/course-btea/blob/master/day-1/00-shell.md). For this everyone will jump right in with [a bash shell](https://github.com/sr320/course-btea/wiki/Before-you-arrive#the-bash-shell).     
+3) [Markdown](https://github.com/sr320/course-btea/wiki/Before-you-arrive#markdown-editors) Lets get out of the shell for a bit to learn markdown and why it is valuable (spoiler: version control).    
+4) [Version control](http://swcarpentry.github.io/git-novice/10-open.html) - Github        
+5) [Jupyter](https://jupyter.org/)        
+6) [SageMathCloud](https://cloud.sagemath.com/)             
 7) **Activity** - Notebooks set-up _Describe transcriptome_  (Show how generated)         
-	- Assemble transcriptomes  
-	- maybe iPlant, Galaxy.          
-	- _Product_ - publish notebooks and post on wiki by end of day!!        
-	- ITP-  Start blast
+	- Assemble transcriptomes - maybe iPlant, Galaxy.          
+	- _Product_ - publish notebook post links on wiki by end of day!!        
+	- ITP -  Start blast
 
 ---
 
