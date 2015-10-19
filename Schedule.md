@@ -8,7 +8,7 @@ One primary case study will be the examination of novel transcriptome datasets f
 - Set-up computing environments for bioinformatics analysis and learn basic unix commands.    
 - Use version control for effective documentation of analyses, backup, and collaboration
 
-1) **AM Lecture**:  Roberts _Open Science and Helping Future You_     
+1) **AM Lecture**:  Roberts _Introduction_     
 2) Getting comfortable with text and command-line. Open [shell.md](https://github.com/sr320/course-btea/blob/master/day-1/00-shell.md). For this everyone will jump right in with [a bash shell](https://github.com/sr320/course-btea/wiki/Before-you-arrive#the-bash-shell).     
 3) [Markdown](https://github.com/sr320/course-btea/wiki/Before-you-arrive#markdown-editors) Lets get out of the shell for a bit to learn markdown and why it is valuable (spoiler: version control).    
 4) [Version control](http://swcarpentry.github.io/git-novice/10-open.html) - Github        
