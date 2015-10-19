@@ -20,7 +20,7 @@ Participants will learn how to
 
 ---
 
-We will be using local (desktop) software including bash, blast, tophat, bedtools, IGV, tophat and jupyter (IPython) notebooks. Additionally, participants will learn how to use open, web-based platforms including iPlant Collaborative, SQLShare, and Galaxy.
+We will be using local (desktop) software including bash, blast, tophat, bedtools, IGV, and jupyter (IPython) notebooks. Additionally, participants will learn how to use open, web-based platforms including iPlant Collaborative, SQLShare, and Galaxy.
 
 ---
 
