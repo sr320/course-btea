@@ -3,7 +3,6 @@
 
 This page was created by Steven Roberts - [@sr320](https://github.com/sr320)
 
-![gif](https://www.evernote.com/shard/s10/sh/7b376015-2c4b-4c8e-8b45-edc74e9cc945/8e1f2d412e22ef2a/res/9198a6d1-dfc0-4e87-bb18-caf1f6de2480/IMG_3333.GIF?resizeSmall&width=832)
 
 **Is it in the Geoduck transcriptome?**
 
@@ -15,7 +14,7 @@ The first thing I did was get a sequence from Genbank in a species with fully an
 
 This is a screenshot of the NCBI page
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/PREDICTED__Homo_sapiens_DNA__cytosine-5-_-methyltransferase_1__DNMT1___-_Nucleotide_-_NCBI_1BD976CD.png" alt="PREDICTED__Homo_sapiens_DNA__cytosine-5-_-methyltransferase_1__DNMT1___-_Nucleotide_-_NCBI_1BD976CD.png"/>
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/PREDICTED__Homo_sapiens_DNA__cytosine-5-_-methyltransferase_1__DNMT1___-_Nucleotide_-_NCBI_1BD976CD.png"/ width = 50%>
 
 
 
@@ -75,4 +74,11 @@ gi|768001213|ref|XM_011527774.1|	filtered_108A_Female_Mix_GGCTAC_L004_R1_(paired
 ```
 
 
+#Results Table
 
+Library |  Sequence Name | evalue
+---------|-------------|---------
+Oly Male | contig_9003 | 0.0	
+Oly Female | contig_8192 | 0.0
+Geo Male | contig_7892 | 0.0
+Geo Female | contig_23384 | 1e-125
