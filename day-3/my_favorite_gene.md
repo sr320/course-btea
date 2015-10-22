@@ -37,7 +37,7 @@ This is a direct link to the page
 
 my code :)
 
-```
+```bash
 !blastn \
 -query /Users/sr320/git-repos/course-btea/data/Hsapien_DNMT.fasta \
 -db /Users/sr320/Desktop/big-data/db/Geo_Female \
