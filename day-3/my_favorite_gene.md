@@ -3,7 +3,7 @@
 
 This page was created by Steven Roberts - [@sr320](https://github.com/sr320)
 
-![gif](https://www.evernote.com/shard/s10/sh/7b376015-2c4b-4c8e-8b45-edc74e9cc945/8e1f2d412e22ef2a/res/9198a6d1-dfc0-4e87-bb18-caf1f6de2480/IMG_3333.GIF?resizeSmall&width=832)
+![gif](https://www.evernote.com/shard/s10/sh/7b376015-2c4b-4c8e-8b45-edc74e9cc945/8e1f2d412e22ef2a/res/9198a6d1-dfc0-4e87-bb18-caf1f6de2480/IMG_3333.GIF?resizeSmall&width=232)
 
 **Is it in the Geoduck transcriptome?**
 
