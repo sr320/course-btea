@@ -15,6 +15,8 @@ This is a screenshot of the NCBI page
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/PREDICTED__Homo_sapiens_DNA__cytosine-5-_-methyltransferase_1__DNMT1___-_Nucleotide_-_NCBI_1BD976CD.png" alt="PREDICTED__Homo_sapiens_DNA__cytosine-5-_-methyltransferase_1__DNMT1___-_Nucleotide_-_NCBI_1BD976CD.png"/>
 
+
+
 ---
 
 This is a direct link to the page
@@ -23,6 +25,9 @@ This is a direct link to the page
 
 ##Blasting against Geoduck database
 ![picture of Geoduck](https://www.evernote.com/l/AAr8G9VTSV1HVpsXRF1D65N1DR2gFiQ1AKMB/image.png)
+
+
+![picture of Geoduck](../img/pic-geoduck.png)
 
 ### Brent Dissecting Tissue used for making RNA-seq Libraries
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Acj3ta5UqR0?rel=0" frameborder="0" allowfullscreen></iframe>
